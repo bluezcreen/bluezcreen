@@ -1,7 +1,5 @@
 ## Well, there is a man here.
-
-male  
-idiot on the internet
+male,idiot on the internet
 ---
 ![html](https://img.shields.io/badge/HTML-orange?logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-blue?logo=CSS&logoColor=white)
